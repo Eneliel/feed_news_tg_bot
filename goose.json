@@ -1,0 +1,8 @@
+{
+    "goose": {
+      "dir": "internal/storage/migrations",
+      "driver": "postgres",
+      "open": "host=localhost user=postgres dbname=news_feed_bot password=123321q sslmode=disable"
+    }
+  }
+  
